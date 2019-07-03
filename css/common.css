@@ -1,0 +1,30 @@
+body {
+
+}
+
+main {
+    width: 1366px;
+    height: 768px;
+    background-image: url("../img/bg.png")
+}
+
+article {
+    width: 960px;
+    height: 768px;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,0.5);
+    background-image: url("../img/surfbord.png");
+    background-repeat: no-repeat;
+    background-position: 80px 50px;
+}
+
+p {
+    width: 500px;
+    height: 300px;
+    background-image: url("../img/text_1.svg");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    float: right;
+    margin-top: 290px;
+    margin-right: 80px;
+}
